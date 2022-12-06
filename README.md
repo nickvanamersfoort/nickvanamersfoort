@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-I'm a Visual Designer & Front-end Developer living in the Netherlands.
+I'm a Frontend Developer living in the Netherlands.
 
 ##### About me
 
 - 🏢 I'm currently working at **Suite Seven**
-- ⚙️ I use daily: `.html`, `.css`, `.php`, `.js`, `.sketch`
+- ⚙️ I use daily: `.html`, `.css`, `.php`, `.js`
 - 💬 Ping me about **design** or **development**
 - 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/nickvanamersfoort/)
 
